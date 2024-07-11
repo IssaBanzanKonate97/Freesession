@@ -41,7 +41,7 @@ services:
     command: --default-authentication-plugin=mysql_native_password
     environment:
       MARIADB_DATABASE: clients
-      MARIADB_ROOT_PASSWORD: Banzan9771@&
+      MARIADB_ROOT_PASSWORD:
      
     
     networks:
